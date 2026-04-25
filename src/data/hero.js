@@ -2,7 +2,7 @@
 // Edit this file to update your name, title, positioning, and contact details.
 
 export const HERO = {
-  name: "Alex Mitchell",
+  name: "Bala Ramesh",
   title: "Junior Credit Analyst",
   eyebrow: "Credit Risk · Financial Analysis · Lending",
   positioning:
